@@ -2,7 +2,6 @@ row, col = map(int, input().split())
 matrix = []
 for i in range(row):
     matrix.append(list(input()))
-#print
 for i in range(row) :
     for j in range(col) :
         cnt = 0
