@@ -1,1 +1,2 @@
 # fist-repository
+## git config
